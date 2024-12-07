@@ -1,0 +1,14 @@
+Set up ASP.NET in VS Code
+
+* download .net in https://dotnet.microsoft.com/en-us/download
+
+* install
+
+*create a folder
+
+* open vs code
+
+*terminal
+- type dotnet new
+- type dotnet new blazor||webapp
+- type dotnet run
